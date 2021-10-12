@@ -1,4 +1,4 @@
-# Fitness
+# MyFitness
 
 ## The outline of the files in this repo is as follows:
 
